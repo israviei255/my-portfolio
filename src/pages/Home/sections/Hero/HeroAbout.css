@@ -1,0 +1,35 @@
+#nav-about {
+    background-image: url("../../../../assets/gifs/earth-slow.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    width: 15vw;
+    height: 20vh;
+    margin-bottom: 60px;
+    transition: 0.3s ease;
+    border-radius: 50%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    color: rgb(237, 237, 237);
+    -webkit-text-stroke: 0.8px rgb(0, 0, 0);
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-weight: bolder;
+    text-decoration: none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.386);
+
+    margin-top: 80px;
+}
+
+#nav-about:hover {
+    width: 14vw;
+    font-size: 1.6rem;
+    transition: 0.5s ease;
+    color: rgb(46, 57, 186);
+    
+}

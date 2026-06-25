@@ -1,10 +1,10 @@
-
+import Home from "../src/pages/Home/Home"
 
 function App() {
 
   return (
     <>
-      App
+      <Home />
     </>
   )
 }
