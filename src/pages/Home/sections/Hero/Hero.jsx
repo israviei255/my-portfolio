@@ -22,7 +22,7 @@ function Hero() {
                     </a>
                 </div>
             </nav>
-            <h2 id="my-name">Meu Nome</h2>
+            <h2 id="my-name">Israel A. Vieira</h2>
             <h3 id="my-profession">Web Developer</h3>
         </section>
     )
