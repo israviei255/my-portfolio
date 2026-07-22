@@ -2,13 +2,14 @@ import "../About/About.css"
 
 function About() {
     return (
-        <>
-            <h2 id="about-me">About me</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                Beatae minus earum aliquid! Dolore fuga commodi provident odio excepturi nisi expedita ab, 
-                ducimus ad, asperiores est dignissimos sequi natus exercitationem quasi.
+        <div id="about-me">
+            <h2 id="about-title">ABOUT ME</h2>
+            <p id="about-description">Meu nome é Israel Alexandre Vieira, tenho 29 anos e sou formado em Desenvolvimento Web FullStack pelo
+                SENAI. Meus conhecimentos incluem principalmente HTML, CSS, JS, REACT no front-end e JAVA, SpringBoot, postgreSQL
+                no deselvolvimento de API's. Profissional com ótima habilidade de organização, atenção aos detalhes e sempre buscando 
+                aprender cada vez mais. Estou buscando pela minha primeira oportunidade para atuar no mercado.
             </p>
-        </>
+        </div>
     )
 }
 

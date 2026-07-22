@@ -1,0 +1,12 @@
+#about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10%;
+    border-bottom: 1px solid black;
+}
+
+#about-description {
+    width: 50%;
+    text-align: justify;
+}
